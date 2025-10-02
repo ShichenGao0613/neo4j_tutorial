@@ -40,18 +40,18 @@ This guide will walk you through downloading, installing, and creating your firs
 
 ## 3. Install Required Plugins
 
-3. **Download CSV Import Plugin**  
+8. **Download CSV Import Plugin**  
    Click  here to download the first plugin that will help import CSV files into Neo4j Desktop.
 ![here](images/picture8.png)
-4. **Open Plugins List**  
+9. **Open Plugins List**  
    Click **Plugins** to view the available plugins.  
    ![Open Plugins](images/picture9.png)
 
-5. **Install APOC Plugin**  
+10. **Install APOC Plugin**  
    Click **Install** next to the APOC plugin.  
    ![Install APOC](images/picture10.png)
 
-6. **Restart Instance**  
+11. **Restart Instance**  
    Restart the `Restaurant_Review` instance.  
    ![Restart Instance](images/picture11.png)
 
@@ -59,20 +59,20 @@ This guide will walk you through downloading, installing, and creating your firs
 
 ## 4. Install Extended APOC Plugin Manually
 
-7. **Download APOC Extended JAR**  
+12. **Download APOC Extended JAR**  
    Visit the [APOC releases page](https://github.com/neo4j-contrib/neo4j-apoc-procedures/releases) and download  
    `apoc-2025.09.0-extended.jar`.  
    ![Download APOC JAR](images/picture12.png)
 
-8. **Open Database Path**  
+13. **Open Database Path**  
    In Neo4j Desktop, click **Open Path**.  
    ![Open Path](images/picture13.png)
 
-9. **Navigate to Plugins Folder**  
+14. **Navigate to Plugins Folder**  
    Locate and open the `plugins` folder.  
    ![Open Plugins Folder](images/picture14.png)
 
-10. **Place APOC JAR in Plugins Folder**  
+15. **Place APOC JAR in Plugins Folder**  
     Copy `apoc-2025.09.0-extended.jar` into the `plugins` folder.  
     ![Copy JAR](images/picture15.png)
 
@@ -80,19 +80,19 @@ This guide will walk you through downloading, installing, and creating your firs
 
 ## 5. Configure APOC and Neo4j
 
-11. **Return to Config Folder**  
+16. **Return to Config Folder**  
     Navigate back to the previous folder.  
     ![Return Folder](images/picture16.png)
 
-12. **Open Configuration Folder**  
+17. **Open Configuration Folder**  
     Enter the `conf` directory.  
     ![Open Conf](images/picture17.png)
 
-13. **Create `apoc.conf` File**  
+18. **Create `apoc.conf` File**  
     Create a new file named `apoc.conf`.  
     ![Create apoc.conf](images/picture18.png)
 
-14. **Add APOC Configuration**  
+19. **Add APOC Configuration**  
     Open `apoc.conf` and add the following lines:
     ```properties
     apoc.import.file.enabled=true
@@ -101,11 +101,11 @@ This guide will walk you through downloading, installing, and creating your firs
     Save and close.  
     ![Edit apoc.conf](images/picture19.png)
 
-15. **Edit `neo4j.conf`**  
+20. **Edit `neo4j.conf`**  
     Open `neo4j.conf`.  
     ![Open neo4j.conf](images/picture20.png)
 
-16. **Enable APOC Import in JVM**  
+21. **Enable APOC Import in JVM**  
     Add the following line:
     ```properties
     server.jvm.additional=-Dapoc.import.file.enabled=true
@@ -117,14 +117,14 @@ This guide will walk you through downloading, installing, and creating your firs
 
 ## 6. Import CSV Files
 
-17. **Return to Main Folder**  
+22. **Return to Main Folder**  
     ![Return Folder](images/picture22.png)
 
-18. **Open Import Folder**  
+23. **Open Import Folder**  
     Navigate into the `import` folder.  
     ![Open Import](images/picture23.png)
 
-19. **Copy CSV Files**  
+24. **Copy CSV Files**  
     Copy 7 CSV files into this folder:  
     - `edges.csv` → relationships  
     - `nodes.csv` → nodes  
@@ -133,7 +133,7 @@ This guide will walk you through downloading, installing, and creating your firs
     Refer to the [Neo4j Admin Import Guide](https://neo4j.com/docs/operations-manual/current/tutorial/neo4j-admin-import/).  
     ![Copy CSVs](images/picture24.png)
 
-20. **Restart Neo4j Instance**  
+25. **Restart Neo4j Instance**  
     Restart the instance from Neo4j Desktop.  
     ![Restart](images/picture25.png)  
     ![Restart Confirmation](images/picture26.png)
@@ -142,10 +142,10 @@ This guide will walk you through downloading, installing, and creating your firs
 
 ## 7. Setup Python Environment 
 
-21. **Install Anaconda (if not available)**  
+26. **Install Anaconda (if not available)**  
     Download [Anaconda](https://www.anaconda.com/).
 
-22. **Create and Activate Conda Environment**  
+27. **Create and Activate Conda Environment**  
     Run the following in your terminal:
     ```bash
     conda create -n demo python=3.9
@@ -158,16 +158,16 @@ This guide will walk you through downloading, installing, and creating your firs
 
 ## 8. Query and Visualize Data
 
-23. **Open Query Tab**  
+28. **Open Query Tab**  
     ![Open Query](images/picture27.png)
 
-24. **Connect Instance**  
+29. **Connect Instance**  
     - Click to connect the instance.  
       ![Connect Instance](images/picture28.png)  
     - Select the database and connect.  
       ![Choose Instance](images/picture29.png)
 
-25. **Run Query**  
+30. **Run Query**  
     Paste and run this query to visualize:
     ```cypher
     MATCH (n)
