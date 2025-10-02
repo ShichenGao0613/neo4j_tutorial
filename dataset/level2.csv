@@ -1,0 +1,68 @@
+uuid:ID,aspect:Label,content
+2cec89a1-3d71-417f-91e5-395e5e1ae4b6,Food_item,burger
+885828aa-6867-4448-8044-930eade6668c,Food_item,Cajun seasoning
+33111a65-ade1-4205-ba9d-3b9a20160c33,Food_item,mushrooms
+cc6b1236-469a-4881-a7e3-7cf4522d7edb,Food_item,size
+fcb9dcec-3b2f-4f49-b23f-0f6f1df1614a,Food_item,smoked gouda
+91c19c37-bd75-443e-a0cf-3687280c56d6,Food_item,fries
+dae62007-9cff-4ddf-bd22-dc106fa884bb,Food_item,fries
+af7320e0-f0fb-4c1e-8005-c30cdea6758c,Food_item,fries
+2be877ac-d30b-4b2f-8171-08cf1b60f662,Food_item,burger
+15979984-e7a0-4bee-9e73-17a29f8b877a,Environment,ambiance
+3643301e-5df0-4b6f-a7eb-c60ef7c0cbd3,Food_item,food
+e7609d81-cefd-4940-af8a-2acb98348a19,Seating,seating
+c9232016-c7c0-4ade-9e95-65eba8eb8cdf,Staffs,Paige
+7e2eb8fa-4a79-4269-8d59-7ae119088dd5,Staffs,Paige
+fe4e191c-456f-4298-a794-a3b2345113b2,Food_item,biscuits
+28a451f1-0c09-4b97-a2e9-4972d7db1c2c,Overall_Experience/Opinion,this place
+1823987f-b791-4da2-9b50-0f64a63f89f2,Staffs,staff
+61641010-8b1b-43f8-b597-6306d154cd10,Staffs,Kelly
+8385aaa1-0cb1-4b92-9aa4-c83fcfd49e7f,Happy_Hours,oysters
+ce5750b7-39a8-43a4-a4a8-af0651ad863c,Food_item,oysters
+74ded1e0-0d89-4651-809d-4816b49608cc,Food_item,bread
+efa00b44-e640-4500-89e6-13654af41877,Price,shrimp and grits
+8c70aaba-ca98-443c-9931-65a385335e86,Food_item,sauce
+0507bc01-2430-4813-a992-2eeb86289ed9,Staffs,service
+e8d1bd5a-2a0b-40ca-859b-d9fdf0bea8e2,Staffs,pretty ladies
+3c46528d-94de-4a95-b26f-d6f9642cbaa3,Overall_Experience/Opinion,lake restaurant
+0fb03a9a-1e08-4793-bcab-7d5921d5c19b,Food_item,oysters
+016e66b5-218f-44ee-bdd2-1e3c0de12240,Food_item,oysters
+93d4f816-f4fd-46c5-b67e-62626b597adc,Food_item,oysters
+e101133a-854c-4be2-a285-7f083acdeebf,Food_item,oysters
+6963946d-3c63-4340-b6e4-1c2f9e149032,Food_item,oysters
+b923211d-50f6-41e3-b72d-827f782e3760,Price,price
+f37e31ee-bc23-469d-8e4d-7967fc2e4dde,Overall_Experience/Opinion,overall experience
+df043587-4a42-41ab-ac27-99f9bf100c72,Food_item,portions
+30c61887-1852-42ac-9e23-d97834f7a51c,Food_item,portions
+2edb1d6e-ffd4-401e-a813-51726328372b,Food_item,giant spring roll burrito
+38ba50ba-d78f-4d62-a825-743d176ba43c,Overall_Experience/Opinion,place
+6bff5cda-6f60-45a1-838b-afa9bd9ebf2f,Staffs,service
+a20246f1-07cb-40fd-9871-8c5d4f861605,Delivery,food
+eccde296-9d47-4202-8f58-c5c12aecb042,Food_item,food
+53a7e5a4-e86d-4839-be0e-d09d0259d247,Food_item,food
+b9c9e298-3d39-4e34-86c7-015c25c73456,The_Decor,restaurant
+8b947bc2-2313-4c11-9ed5-03f5dca8d80b,Staffs,employees
+35520831-a9f8-4f47-9a66-8e1004b6cd71,Staffs,employees
+c8c1417b-1ba7-4639-9a7c-9e3b4da3c187,Staffs,staff
+5d0aad21-ae4c-406c-aa1d-1b5244bc06b1,Pets_Allowed,dog
+cf54fa78-f249-46d8-96de-27bc0516efa2,Places_or_Areas,outside seating
+68c9bf91-3b5f-42b3-b89d-b4b882ef30e7,Staffs,staff
+0661a9f0-62b4-4d97-8525-c54a00970492,Overall_Experience/Opinion,place
+786ebf08-10fb-4e55-a2c8-8cd3449522dd,Seating,seating
+edb4f4a6-95cb-4f49-b671-b2143dbc33df,Food_item,blue cheese fries
+2afab663-01ee-4787-bc13-b601b7c5a53b,Happy_Hours,happy hour
+75cfcd02-851e-45d3-baf8-4325286c8614,The_Decor,place
+955bf5e2-b617-4a65-b956-1772e6de857c,Staffs,staff
+d15bfc0e-dee1-40cb-babf-1a987710e07c,Drink,cocktails
+fb0d1345-9544-478f-b5fd-07edc8c9a3c3,Staffs,Kevin
+e953438a-780d-4323-8510-95fe7eea3813,Overall_Experience/Opinion,here
+20abe65c-cab3-4344-aa95-38a93d3ddb7f,Overall_Experience/Opinion,overall
+ff6daadd-573d-4af2-896d-32a33550e88b,Located_area,location
+17926174-e574-4cd0-abbb-62745e7831d1,Environment,space
+0e5a0ff1-9afb-47c9-906d-7f5ca64e366d,Food_item,food
+04952bb2-b3ce-4ac6-ae8a-fec195505a6c,Food_item,Habana Cuban sandwich
+332ae95c-6296-4325-b0c4-08c679b7553e,Seating,indoor and outdoor seating
+eec84a71-eef0-46e6-82ed-bd5673947a92,Drink,beers on tap and bottle selection
+6e38ccf5-391c-4b46-b41a-fcb8c6f2a0e2,Entertainment,live music
+5edc1e5d-b595-4d4c-bbd1-63fe500d09dc,Parking,parking
+81ec9fad-03a1-4734-aa03-7e08e2faf494,Overall_Experience/Opinion,overall recommendation

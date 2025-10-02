@@ -1,0 +1,68 @@
+uuid:ID,aspect:Label,opinion,sentiment
+a58c956f-5454-4138-8a71-4eedfca8d17b,Taste,underwhelmed is an understatement,negative
+f1c1feb0-00fa-48e0-bf31-d4b70da58e29,Taste,undetectable,negative
+7f563938-537c-4384-bed8-79385898801f,Quality,soggy,negative
+fd40a44f-a369-42c3-9799-7b9a31302937,Size,nice,positive
+10f0ed37-c1f4-4b27-825d-af4af9069ac9,Taste,good,positive
+18729337-c314-49c0-8eb8-1ef5829b1e53,Taste,"fresh, perfectly cooked",positive
+ac45e688-dc6f-450c-810f-188747b1455a,Taste,tempid and lacked any pizazz,negative
+2f96807b-0a83-4a2b-af6c-93c17f887438,Taste,salty,negative
+4bc314b7-f50b-4bae-bb20-eff14abedd53,Taste,tasteless,negative
+ea2aa78b-8492-42ad-83b0-dec7428fd0df,Type,lively,positive
+5496abab-aa01-4e24-88d1-ae716137be80,Quality,exceptional,positive
+9213f356-22ef-4847-aa33-c4e19f015963,detail,immediately,positive
+a9c613b8-4a07-495b-a130-04cdddfaf241,Behaviour,greeted quickly,positive
+4f9a99f3-385f-458b-8f64-a3d31a3af609,Behaviour,helpful and didn't rush,positive
+76244b7e-2d3a-426e-b66a-2114b1ce3161,Taste,AWESOME,positive
+af654903-feb3-46cd-9412-680b21052e1e,detail,Love,positive
+841f9dc3-839f-44aa-a89b-6229d62223e0,Behaviour,treated like royalty,positive
+3baef412-0adb-4e9c-9038-995ff92fd66b,Behaviour,warm pleasantries surpassed by none,positive
+1c486131-80b4-4faa-90eb-00bc7bda6037,detail,50 cent oysters during happy hour,positive
+dc054734-042d-41d4-8081-283ba2916954,Size,size of your palm,positive
+729e02e5-fa39-4160-bbd7-b0d927d6b198,Taste,perfect balance of crusty deliciousness and soft fluffy heaven,positive
+af7982eb-77cb-4a47-b38a-0e9f5990cb34,detail,beyond worth it,positive
+42be76a2-f2f4-45c6-9139-d13ed4cd538c,Taste,ridiculous,positive
+eff3e2c0-dd32-4310-accb-f6a22a5716c9,Behaviour,great,positive
+bda0ab20-61fb-462d-a1ad-161ffe81b7c1,Appearance,can't beat all the pretty ladies,positive
+c3929dd4-5c3c-4b66-8038-f8d9e3f1f968,detail,Best lake restaurant that exist,positive
+08f868c1-c1cb-408d-8780-8ac5be8c6e0a,Taste,fresh,positive
+76637b05-8e75-4c72-99d0-8e95d458e4e5,Taste,lack of taste,negative
+14177c71-2f4a-491c-b690-1d1e5cb79757,Taste,very bland,negative
+3b4e0238-0c7c-4aa6-ad56-c3f4d3712239,Taste,missed the smell and taste of the sea,negative
+f28defef-d0e6-4960-8e7a-7acfd9978d53,Size,big - maybe a little too big,negative
+e8fb429d-7591-48f5-a053-871f745e6336,detail,a little disappointed,negative
+435bc5df-50cc-4b75-ab92-1f49956561aa,detail,was a believer,positive
+8d911a84-310b-4bfb-b67d-8af70108de74,Size,very generous,positive
+ed878f22-3303-46b8-9d67-ad8c8ee73b76,Size,very splittable,positive
+99f37220-cfb5-4630-948e-6a1ff832b57f,Quality,Genius,positive
+9c5b425b-37e4-4c81-8d02-2c062939c3dd,detail,incredible,positive
+4e803ae6-1e1b-4e03-b533-7d2345d5a535,Behaviour,always over the top,positive
+59896837-23aa-49d0-a6bf-0e77274c6c25,Time,quick,positive
+275999b9-435f-415e-9875-f58b6014ce4f,Taste,delicious,positive
+b64af383-f91b-44bc-a7bd-43f14b7477ef,Taste,good,positive
+9996b11a-cde6-471d-b040-761562da2378,detail,clean,positive
+311e4fed-abe7-4b0c-b0c3-5217149003b6,Behaviour,happy to be there,positive
+c01660b6-9572-423e-892c-3e8bb86e92c0,Behaviour,smiling and singing along to the music,positive
+d9dd6d6e-7ca3-4747-9eec-ed7504cfcc75,Behaviour,super helpful,positive
+898132f5-2bcd-4e3d-9325-a90f80a83ad5,detail,can bring my dog with me,positive
+8b5400ef-1e0d-4e7e-acfb-02ceb1e49074,Patio,sit outside,positive
+f3d2bcb3-c0a2-4ce2-b09c-5592459874f7,Behaviour,bring out water for her,positive
+0a6db437-6d14-45cf-bc3d-6331919829c2,detail,great work,positive
+2ccffccc-b400-4ab7-a4e1-e299bea75a74,detail,indoor and outdoor seating,positive
+c26c375d-da46-4227-bf94-2a0d74d6e016,Taste,yummy,positive
+a1ad2307-a6bb-452b-a0d7-4c15816bec6f,detail,happy hour 4-6pm everyday $1 oysters,positive
+c5545734-487a-4a8d-b220-bc7e11f14784,detail,clean,positive
+463acc7c-c65f-48b4-9f87-4221ce675201,Behaviour,friendly,positive
+168187c0-2ac1-40ab-b55b-912456fade99,detail,must stop,positive
+07bac8c4-e93a-4563-8f7c-b8efbfec5738,Experience,best in the Quarter,positive
+2f36ab93-c87a-474f-9b1e-af2b8fd57a44,detail,Can't wait to return!,positive
+63b4a263-4d31-45a3-8cb5-a31a4f96f629,detail,fantastic place to try some less commercial craft beers,positive
+4479c9ef-3eaf-4716-a2ee-751ff4d187ee,detail,love their location,positive
+37a4354a-a48f-44db-a984-fe5e6dbbc101,Size,love their space,positive
+30a7980d-cdf6-4ce9-a908-3d43da3eca51,Taste,very good,positive
+1144bcce-589d-44a7-ac0f-c9cbb7c2842b,Taste,excellent,positive
+2502b1bd-c1ff-427f-86a5-fe5b2ec795d7,detail,perfect when the weather cools down,positive
+58059262-636b-46a6-a1aa-9d17ef6fbaa7,detail,about 14-15 beers on tap and a huge bottle selection,neutral
+3049c308-5d47-4f75-8ef3-9a0d4b3858c8,Live_Performance,live music,neutral
+04528f6e-467c-4e67-ac36-34bf7b46bad3,detail,small parking lot behind their location but also across the street you can park in their larger grass lot,neutral
+8bdc59ec-24ca-4d81-ac35-7e979b1dd14e,detail,Definitely recommend checking out The Independent!,positive
