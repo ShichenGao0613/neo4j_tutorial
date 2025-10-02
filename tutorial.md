@@ -127,7 +127,7 @@ This guide will walk you through downloading, installing, and creating your firs
 24. **Copy CSV Files**  
     Copy 7 CSV files into this folder:  
     - `edges.csv` → relationships  
-    - `other csv` files → nodes  
+    - `other csv files` → nodes  
 
     ⚠️ Note: Headers must follow Neo4j’s strict naming conventions.  
     Refer to the [Neo4j Admin Import Guide](https://neo4j.com/docs/operations-manual/current/tutorial/neo4j-admin-import/).  
