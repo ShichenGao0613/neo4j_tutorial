@@ -129,7 +129,7 @@ This guide will walk you through downloading, installing, and creating your firs
     - `edges.csv` → relationships  
     - `other csv files` → nodes  
 
-    ⚠️ Note: Headers must follow Neo4j’s strict naming conventions.  
+    ⚠️ Note: When using your own CSV files, the headers must conform to Neo4j’s strict naming conventions. 
     Refer to the [Neo4j Admin Import Guide](https://neo4j.com/docs/operations-manual/current/tutorial/neo4j-admin-import/).  
     ![Copy CSVs](images/picture24.png)
 
