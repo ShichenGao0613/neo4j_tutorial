@@ -1,4 +1,4 @@
-# Knowledge Graph Project
+# Knowledge Graph Tutorial
 
 ## Project Structure
 
